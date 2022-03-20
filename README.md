@@ -44,6 +44,9 @@ tusimple由于数据集太大（几万张？），自己只是训练集和测试
 ## **结果**
 **见data/test/image下的所有res.png图片**   
 其中一些结果如下：（效果相当粗糙，原因当然一个是网络参数，毕竟训练一次要好久。另一个是网络结构，但是大体上实现了分割的效果）  
+![avatar](pic/001.png)
+![avatar](pic/002.png)
+![avatar](pic/003.png)
 ![avatar](pic/3499_res.png) 
 ![avatar](pic/3235_res.png)   
 
